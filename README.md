@@ -1,3 +1,2 @@
 # to_dolist
-
-A new Flutter project.
+ To -do app in flutter
